@@ -29,7 +29,8 @@ The polygon is defined as a plane bounded by a closed polyline, and obstacles ar
 ├── bug1.py          # Bug1 algorithm implementation
 ├── bug2.py          # Bug2 algorithm implementation
 ├── images/          # Trajectory visualization screenshots (1.png ... 16.png)
-└── README.md
+├── README.md
+└── README_ru.md
 ```
 
 ## Requirements
